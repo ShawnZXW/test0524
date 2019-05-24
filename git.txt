@@ -1,0 +1,4 @@
+git常见命令：
+
+添加到缓存区：git add xxx
+提交到主分支：git commit xxx
